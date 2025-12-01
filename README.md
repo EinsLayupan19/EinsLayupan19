@@ -37,6 +37,3 @@
 
 ---
 
-## 🔗 Important Links
-- **GitHub Profile:** *Paste your GitHub link here*  
-- **CognitiveClass Certificate:** *Paste certificate link here*
