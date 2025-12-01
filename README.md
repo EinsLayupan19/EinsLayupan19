@@ -5,11 +5,16 @@
 
 ---
 
-**Education:** Bachelor of Science in Information Technology – New Era University  
+## 🎓 Education
 
+### 🎓 College  
+- **Bachelor of Science in Information Technology**  
+  *New Era University*  
+  **2024 – Present**
+  
 ---
 
-## 🎓 Certifications
+## 🏅 Certifications  
 > *(Add your certificates once available)*
 
 - **SQL and Relational Databases 101** – CognitiveClass.ai  
@@ -36,4 +41,3 @@
 - Problem-Solving  
 
 ---
-
