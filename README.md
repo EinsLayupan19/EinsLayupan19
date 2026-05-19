@@ -1,41 +1,73 @@
-# 👤 My GitHub Profile
+# 👋 Hi, I'm Zirk Eins B. Layupan
 
-## 📌 Personal Information
-**Name:** Zirk Eins B. Layupan  
+Welcome to my GitHub profile!  
+I am a passionate Information Technology student who enjoys learning new technologies, solving problems, and improving my technical skills through continuous practice and projects.
+
+---
+
+# 👤 About Me
+
+- 🎓 BS Information Technology student at New Era University  
+- 💻 Interested in Web Development and Database Management  
+- 🚀 Continuously improving my programming and problem-solving skills  
+- 🎬 Knowledgeable in video editing using Movavi and DaVinci Resolve  
+- 📚 Eager to learn modern technologies and software tools  
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-### College  
-- **Bachelor of Science in Information Technology**  
-  *New Era University*  
-  **2024 – Present**
-  
----
-
-## 🏅 Certifications  
-> <a href = "https://courses.cognitiveclass.ai/certificates/cb658a90f2f64e44ba949cfa5160d1c9">SQL and Relational Databases 101</a>
-
-><a href = "https://catalog-education.oracle.com/ords/certview/sharebadge?id=00369F7A0D8A56B9C6F108BD3C6C9A8C4C9477CF2476B7BC26D388697B5CA930">Become an Oracle Data Platform Foundations Associate</a>
----
-
-## 🛠 Skillsets
-
-### 🌐 Web Development
-- HTML  
-- CSS  
-- JavaScript  
-- PHP  
-
-### 💻 Software Tools
-- Microsoft Word  
-- Microsoft Excel  
-- Microsoft PowerPoint  
-
-### 🎨 Other Skills
-- Video Editing  
-- Creativity  
-- Problem-Solving  
+## Bachelor of Science in Information Technology  
+**New Era University**  
+📅 2024 – Present  
 
 ---
+
+# 🏅 Certifications
+
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/cb658a90f2f64e44ba949cfa5160d1c9)
+
+- [Become an Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=00369F7A0D8A56B9C6F108BD3C6C9A8C4C9477CF2476B7BC26D388697B5CA930)
+
+---
+
+# 🛠 Skill Sets
+
+## 🌐 Programming & Web Development
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Java
+
+## 🗄 Databases
+- IBM DB2 Cloud
+
+## 🧰 Tools & Software
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+- Lucidchart
+- Jaspersoft Studio
+- Eclipse
+- Movavi
+- DaVinci Resolve
+
+## 🎨 Other Skills
+- Video Editing
+- Creativity
+- Problem-Solving
+- Team Collaboration
+
+---
+
+# 📫 Connect With Me
+
+- 📧 Email: einslayupan17@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+# ✨ Motto
+
+> “I think, therefore I am.”
