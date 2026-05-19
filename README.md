@@ -25,7 +25,7 @@ I am a passionate Information Technology student who enjoys learning new technol
 
 # 🏅 Certifications
 
--[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/248aeeeed9e440cd902730a721867949)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/248aeeeed9e440cd902730a721867949)
 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/cb658a90f2f64e44ba949cfa5160d1c9)
 
