@@ -1,154 +1,144 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:38bdf8&text=Zirk%20Eins%20B.%20Layupan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55"/>
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;BSIT+Student;Web+Developer;Database+Enthusiast;Continuous+Learner" />
-</p>
+# ⚡ Zirk Eins B. Layupan
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=800&lines=Aspiring+Data+Analyst;BSIT+Student+from+New+Era+University;Database+and+Web+Development+Enthusiast;Always+Learning+New+Technologies" />
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20EVERYDAY-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-PHILIPPINES-1d4ed8?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Zirk Eins B. Layupan
+```python
+class ZirkLayupan():
 
-Welcome to my GitHub profile!  
-I am a passionate Information Technology student who enjoys learning new technologies, solving problems, and improving my technical skills through continuous practice and projects.
+    def __init__(self):
+        self.name = "Zirk Eins B. Layupan"
+        self.role = "Aspiring Data Analyst"
+        self.education = "BS Information Technology"
+        self.school = "New Era University"
 
----
+    def current_focus(self):
+        return [
+            "Web Development",
+            "Database Management",
+            "Data Analytics",
+            "Problem Solving"
+        ]
 
-# 👤 About Me
-
-- 🎓 BS Information Technology student at **New Era University**
-- 📊 Aspiring Data Analyst
-- 💻 Interested in Web Development and Database Management
-- 🚀 Continuously improving my programming and problem-solving skills
-- 🎬 Knowledgeable in video editing using **Movavi** and **DaVinci Resolve**
-- 📚 Eager to learn modern technologies and software tools
-
----
-
-# 🎓 Education
-
-## Bachelor of Science in Information Technology  
-**New Era University**  
-📅 2024 – Present  
+me = ZirkLayupan()
+```
 
 ---
 
-# 🏅 Certifications
+# 🧠 About Me
 
-- 🏆 [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/248aeeeed9e440cd902730a721867949)
+<table>
+<tr>
+<td width="50%">
 
-- 🏆 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/cb658a90f2f64e44ba949cfa5160d1c9)
+- 🎓 BS Information Technology Student  
+- 📊 Aspiring Data Analyst  
+- 💻 Learning Web & Database Development  
+- 🚀 Improving Technical Skills Daily  
+- 🎬 Video Editor using Movavi & DaVinci Resolve  
+- 📚 Exploring Modern Technologies  
 
-- 🏆 [Become an Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=00369F7A0D8A56B9C6F108BD3C6C9A8C4C9477CF2476B7BC26D388697B5CA930)
+</td>
 
----
+<td width="50%">
 
-# 🛠 Skill Sets
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true"/>
 
-## 🌐 Programming & Web Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
-</p>
-
----
-
-## 🗄 Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-- IBM DB2 Cloud
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tools & Software
+# 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,github" />
-</p>
+<div align="center">
 
-- Microsoft Word  
-- Microsoft Excel  
-- Microsoft PowerPoint  
-- Lucidchart  
-- Jaspersoft Studio  
-- Eclipse  
-- Movavi  
-- DaVinci Resolve  
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,mongodb,vscode,eclipse,github&perline=5" />
+
+</div>
 
 ---
 
-## 🎨 Other Skills
+# 📈 Analytics Dashboard
 
-- 🎬 Video Editing  
-- 🎨 Creativity  
-- 🧠 Problem-Solving  
-- 🤝 Team Collaboration  
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
 
-# 📈 GitHub Stats
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🏆 Certifications
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&border_radius=5"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg" />
-</p>
+| Certification | Provider |
+|---|---|
+| NoSQL and DBaaS 101 | IBM Cognitive Class |
+| SQL and Relational Databases 101 | IBM Cognitive Class |
+| Oracle Data Platform Foundations Associate | Oracle |
 
 ---
 
-# 📫 Connect With Me
+# 🎬 Software & Tools
 
-<p align="left">
+<div align="center">
+
+<img src="https://img.shields.io/badge/Movavi-111827?style=for-the-badge&logo=moviepy&logoColor=white"/>
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-0f172a?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jaspersoft-1e293b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lucidchart-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IBM%20DB2-0ea5e9?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="mailto:einslayupan17@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOURUSERNAME">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-# ✨ Motto
-
-> *“I think, therefore I am.”*
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+## 💭 Quote
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:2563eb,100:38bdf8"/>
+> *"I think, therefore I am."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=2"/>
+
+### ⚡ Building Skills One Project at a Time ⚡
 
 </div>
