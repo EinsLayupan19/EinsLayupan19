@@ -65,16 +65,6 @@ Interests:
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📫 Connect With Me
 
 <div align="center">
