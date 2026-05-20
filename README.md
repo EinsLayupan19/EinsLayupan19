@@ -50,7 +50,6 @@ I am Zirk Eins B. Layupan, an aspiring data analyst with a flair for coding, dat
 
 ## 📫 Contact Me
 
-- LinkedIn: YOUR_LINKEDIN_LINK
 - Email: einslayupan17@gmail.com
 
 ---
