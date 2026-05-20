@@ -1,9 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Zirk Eins B. Layupan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:38bdf8&text=Zirk%20Eins%20B.%20Layupan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=55"/>
 
-### 🎓 BS Information Technology Student  
-### 📊 Aspiring Data Analyst  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;BSIT+Student;Web+Developer;Database+Enthusiast;Continuous+Learner" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
@@ -11,9 +12,14 @@
 
 ---
 
-# 👤 About Me
+# 👋 Hi, I'm Zirk Eins B. Layupan
 
-💡 I am a passionate Information Technology student who enjoys learning new technologies, solving problems, and improving my technical skills through continuous practice and projects.
+Welcome to my GitHub profile!  
+I am a passionate Information Technology student who enjoys learning new technologies, solving problems, and improving my technical skills through continuous practice and projects.
+
+---
+
+# 👤 About Me
 
 - 🎓 BS Information Technology student at **New Era University**
 - 📊 Aspiring Data Analyst
@@ -47,7 +53,7 @@
 ## 🌐 Programming & Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
 </p>
 
 ---
@@ -55,7 +61,7 @@
 ## 🗄 Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 - IBM DB2 Cloud
@@ -65,7 +71,7 @@
 ## 🧰 Tools & Software
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,github" />
 </p>
 
 - Microsoft Word  
@@ -73,6 +79,7 @@
 - Microsoft PowerPoint  
 - Lucidchart  
 - Jaspersoft Studio  
+- Eclipse  
 - Movavi  
 - DaVinci Resolve  
 
@@ -90,8 +97,24 @@
 # 📈 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&border_radius=5"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -124,6 +147,8 @@
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:2563eb,100:38bdf8"/>
 
 </div>
