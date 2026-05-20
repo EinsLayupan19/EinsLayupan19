@@ -16,8 +16,6 @@
 
 # 👋 About Me
 
-<img align="right" width="250" src="YOUR_FORMAL_PHOTO_LINK_HERE"/>
-
 I am **Zirk Eins B. Layupan**, an aspiring data analyst with a flair for coding, database management, and creative design. I enjoy solving complex problems and creating efficient and user-friendly solutions. My journey in technology started when I pursued the **BS Information Technology** program at **New Era University**.
 
 ---
