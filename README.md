@@ -36,7 +36,7 @@ I am **Zirk Eins B. Layupan**, an aspiring data analyst with a flair for coding,
 
 - [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=00369F7A0D8A56B9C6F108BD3C6C9A8C4C9477CF2476B7BC26D388697B5CA930)
 
--  [FreeCodeCamp Responsive Web Design]([https://catalog-education.oracle.com/ords/certview/sharebadge?id=00369F7A0D8A56B9C6F108BD3C6C9A8C4C9477CF2476B7BC26D388697B5CA930](https://www.freecodecamp.org/certification/einslayupan/responsive-web-design-v9))
+-  [FreeCodeCamp Responsive Web Design](https://catalog-education.oracle.com/ords/certview/sharebadge?id=00369F7A0D8A56B9C6F108BD3C6C9A8C4C9477CF2476B7BC26D388697B5CA930)
 
 ---
 
