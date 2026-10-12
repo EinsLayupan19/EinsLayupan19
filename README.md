@@ -24,7 +24,7 @@ I am **Zirk Eins B. Layupan**, an aspiring data analyst with a flair for coding,
 
 - **BS Information Technology**  
   New Era University  
-  2021 - Present
+  2024 - Present
 
 ---
 
