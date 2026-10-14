@@ -38,6 +38,8 @@ I am **Zirk Eins B. Layupan**, an aspiring data analyst with a flair for coding,
 
 -  [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/einslayupan/responsive-web-design-v9)
 
+-  [Fundamentals of AI-Driven Development](https://course.marwieang.com/certificate/MWA-TF9A-NGEJ)
+
 ---
 
 # 💻 Skill Sets
