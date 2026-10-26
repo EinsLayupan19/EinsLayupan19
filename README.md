@@ -1,100 +1,143 @@
-<div align="center">
+# Hi, I'm Eins 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Zirk%20Eins%20B.%20Layupan&fontSize=40&fontAlignY=40&color=0:0f172a,50:2563eb,100:38bdf8&fontColor=ffffff"/>
+### Junior Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;BSIT+Student;Creative+Designer;Video+Editor" />
+I build practical web applications with a focus on clean interfaces, reliable backend systems, and real-world functionality.
 
-<br>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-2563eb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web%20Development-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Creative%20Design-38bdf8?style=for-the-badge"/>
-
-</div>
+Currently focused on **full-stack development, cloud technologies, and AI-powered applications**.
 
 ---
 
-# 👋 About Me
+## 🛠️ Tech Stack
 
-I am **Zirk Eins B. Layupan**, an aspiring data analyst with a flair for coding, database management, and creative design. I enjoy solving complex problems and creating efficient and user-friendly solutions. My journey in technology started when I pursued the **BS Information Technology** program at **New Era University**.
-
----
-
-# 🎓 Education
-
-- **BS Information Technology**  
-  New Era University  
-  2024 - Present
-
----
-
-# 🏆 Certifications
-
-- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/248aeeeed9e440cd902730a721867949)
-
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/cb658a90f2f64e44ba949cfa5160d1c9)
-
-- [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=00369F7A0D8A56B9C6F108BD3C6C9A8C4C9477CF2476B7BC26D388697B5CA930)
-
--  [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/einslayupan/responsive-web-design-v9)
-
--  [Fundamentals of AI-Driven Development](https://course.marwieang.com/certificate/MWA-TF9A-NGEJ)
-
----
-
-# 💻 Skill Sets
-
-## Programming
-- Java
+**Frontend**
+- React
+- TypeScript
 - JavaScript
 - HTML
-- PHP
+- CSS
+- Tailwind CSS
+- Vite
 
-## Databases
-- IBM DB2 Cloud
+**Backend**
+- Node.js
+- Express
+- Python
+- FastAPI
+- REST APIs
+
+**Database**
+- PostgreSQL
+- Supabase
+- SQLite
+- DuckDB
 - MySQL
 - MongoDB
 
-## Tools
-- Jaspersoft Studio
-- Eclipse
-- Lucidchart
-- Visual Studio Code
-- GitHub
+**Tools & Technologies**
+- Git & GitHub
+- Docker
+- WebRTC
+- Realtime systems
+- Authentication & authorization
+- API integration
+- Automated testing
+
+**AI / Data**
+- Generative AI APIs
+- AI-powered applications
+- SQL analytics
+- Data processing
+- Data visualization
 
 ---
 
-# 🚀 Interests
+## 🚀 Projects
 
-- Data Analytics
-- Web Development
-- Video Editing
-- Creative Design
+### [Linka](https://github.com/EinsLayupan19/linka)
+**Full-Stack Real-Time Messaging Application**
+
+A Messenger-style application built with React, TypeScript, Node.js, Express, Supabase, and Drizzle ORM.
+
+- Real-time messaging
+- Authentication and user profiles
+- Conversations and private channels
+- Online presence and typing indicators
+- Read and delivery receipts
+- File attachments
+- Voice calling with WebRTC
+- Automated testing
+
+### [Clima](https://github.com/EinsLayupan19/clima)
+**Weather Web Application**
+
+A responsive weather application built with React and TypeScript using the Open-Meteo API.
+
+- Location-based weather
+- Search and geolocation
+- Responsive interface
+- Error and loading states
+- API request handling
+- Automated tests
+- Production deployment
+
+### [EagleDesk](https://github.com/EinsLayupan19/ai-powered-helpdesk)
+**AI-Powered Helpdesk System**
+
+A full-stack helpdesk application combining traditional support workflows with AI-assisted responses.
+
+- React + TypeScript frontend
+- Express + TypeScript backend
+- Supabase authentication and database
+- AI-assisted support responses
+- Knowledge-base integration
+- Role-based access
+- Input validation and security controls
+- Automated backend testing
+
+### [InsightFlow](https://github.com/EinsLayupan19/insight-flow)
+**AI & Data Analytics Platform**
+
+A data-analysis application designed to explore datasets and generate useful analytical insights.
+
+- Python + FastAPI
+- SQL analytics with DuckDB
+- Data-quality validation
+- Dataset exploration
+- AI-assisted analysis
+- Data processing and visualization
 
 ---
 
-# 📫 Contact Me
+## 📜 Certifications
 
-<div align="center">
+- **AWS Cloud Practitioner** — AWS *(if earned, add certification link)*
+- **Responsive Web Design** — freeCodeCamp *(add certificate link once available)*
+- **[Your other earned certification]** — [Issuing organization]
+- **[Your other earned certification]** — [Issuing organization]
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:einslayupan17@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOURUSERNAME">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+> Only certifications that have actually been completed are listed here. Add the credential link whenever available.
 
 ---
 
-<div align="center">
+## 📚 Currently Learning
 
-### ✨ "Creativity meets analytics."
+- Advanced React and TypeScript
+- Backend architecture
+- PostgreSQL and database design
+- AWS Cloud
+- DevOps fundamentals
+- Application security
+- AI-powered software development
 
-</div>
+---
+
+## 🎯 Career Goal
+
+I'm currently looking for opportunities as a **Junior Full-Stack Developer** where I can contribute to real products, improve my engineering skills, and grow through hands-on development.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@EinsLayupan19](https://github.com/EinsLayupan19)
